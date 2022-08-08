@@ -1,0 +1,1 @@
+clang++ test/run-tests.cpp -o test/run-tests -std=c++11
